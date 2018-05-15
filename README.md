@@ -1,0 +1,2 @@
+# LZScanner
+扫描
